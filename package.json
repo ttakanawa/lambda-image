@@ -1,0 +1,9 @@
+{
+  "name": "lambda-image",
+  "version": "1.0.0",
+  "description": "Serverless image resizing",
+  "dependencies": {
+    "aws-sdk": "^2.633.0",
+    "sharp": "^0.24.1"
+  }
+}
