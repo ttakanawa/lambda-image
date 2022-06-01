@@ -4,6 +4,6 @@
   "description": "Serverless image resizing",
   "dependencies": {
     "aws-sdk": "^2.633.0",
-    "sharp": "^0.24.1"
+    "sharp": "^0.30.5"
   }
 }
